@@ -1,0 +1,27 @@
+body{
+    background: url(trainBackground.jpg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.jumbotron{
+    background: #77cdd1;
+    border: 3px solid white;
+    padding: 10px;
+    margin-top: 20px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.panel{
+    border: 3px solid white;
+}
+
+.panel-default .panel-heading1{
+    background-color: #f6d530;
+    padding: 10px;
+}
+
+.panel-default .panel-heading2{
+    background-color: #f2573e;
+    padding: 10px;
+}
